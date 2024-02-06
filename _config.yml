@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Sam Ng"
   avatar           : "myProfile.png"
-  bio              : "Graduate student at The Pennsylvania State University, research in XR and HCI"
+  bio              : "Graduate student at The Pennsylvania State University, focus on research in XR and HCI"
   location         : "State College, Pennsylvania"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=uagptQgAAAAJ"
+  email            : "hzn5135@psu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/samnghoyin/"
+  orcid            : "https://orcid.org/0000-0001-9316-6146"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
