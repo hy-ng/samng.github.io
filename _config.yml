@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Sam Ng"
   avatar           : "myProfile.png"
-  bio              : "Graduate student at The Pennsylvania State University, focus on research in XR and HCI"
+  bio              : "M.S. Student @ Pennsylvania State University, research in XR and HCI"
   location         : "State College, Pennsylvania"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : # "academicpages"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
