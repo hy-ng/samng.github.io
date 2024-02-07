@@ -6,7 +6,7 @@ excerpt: 'This paper is about MovableBag, a movable device that integrates hapti
 date: 2022-10-15
 venue: 'The 8th Annual Conference of Taiwanese Association of Computer-Human Interaction (TAICHI)'
 paperurl: 'http://hy-ng.github.io/files/TAICHI_2022_paper_8933.pdf'
-citation: 'Luis Andres Mendez S., <ins>Ho Yin Ng</ins>, Zin Yin Lim, Ping-Hsuan Han (2022, October). Demo: MovableBag: Mobile Device Integrating Haptics and Visual Feedback to Enhance Virtual Reality Experience of Sport Training. In <i>The 8th Annual Conference of Taiwan Association of Computer-Human Interaction (TAICHI 2022)</i>.'
+citation: 'Mendez, L. A., <ins>Ng, H. Y.</ins>, Lim, Z. Y., & Han, P. H. (2022, October). Demo: MovableBag: Mobile Device Integrating Haptics and Visual Feedback to Enhance Virtual Reality Experience of Sport Training. In <i>The 8th Annual Conference of Taiwan Association of Computer-Human Interaction (TAICHI 2022)</i>.'
 ---
 Paper Abstract:
 Please refer to the PDF file (in Chinese only)
