@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022-09-11-movableBag_Asymmetric-Interaction
 excerpt: 'This paper is about MovableBag, a robot that can be adapted to multi-user exergames with props and as an interactive agent for physical interaction with user'
 date: 2022-09-11
-venue: 'Adjunct Proceedings of the 2022 ACM International Joint Conference on Pervasive and Ubiquitous Computing and the 2022 ACM International Symposium on Wearable Computers'
+venue: 'Adjunct Proceedings of the ACM International Joint Conference on Pervasive and Ubiquitous Computing and the ACM International Symposium on Wearable Computers'
 paperurl: 'https://dl.acm.org/doi/pdf/10.1145/3544793.3561316'
 citation: 'Mendez, L. A., <ins>Ng, H. Y.</ins>, & Han, P. H. (2022, September). MovableBag: Exploring Asymmetric Interaction for Multi-user Exergame in Extended Reality. In <i>Adjunct Proceedings of the 2022 ACM International Joint Conference on Pervasive and Ubiquitous Computing and the 2022 ACM International Symposium on Wearable Computers</i> (pp. 515-519).'
 ---
