@@ -82,8 +82,13 @@ analytics:
 author:
   name             : "Ho Yin (Sam) Ng"
   avatar           : "myProfile.jpg"
+<<<<<<< HEAD
   bio              : "M.S. Student @ Pennsylvania State University, focus in HCI (XR and AI technology)"
   location         : "State College, PA"
+=======
+  bio              : "M.S. Student @ Pennsylvania State University, research in XR and HCI"
+  location         : "State College, Pennsylvania"
+>>>>>>> parent of 7179cec (Update Location)
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=uagptQgAAAAJ"
