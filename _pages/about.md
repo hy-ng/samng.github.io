@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Curiosity for the better world
+Curiosity for the better world!
 ======
 I am currently a first-year M.S.(Informatics) student at Pennsylvania State University, sepcializing in Human-Computer Interaction (HCI) with keen focus on Extended Reality (XR) and  AI-assisted technology applications. Under the guidance of Prof. Ting-hao (Kenneth) Huang at CrowdAI Lab. 
 
