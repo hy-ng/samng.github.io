@@ -29,17 +29,15 @@ Work experience
     * Conducted various live demo sessions with faculties and guests around the world to explain our research findings
   * Supervisor: Prof. Ping-Husan Han
 
-<!--
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
--->
-
+* Research
+  * Quantitative and data analysis
+  * Literature review and synthesis
+* Programming and application development
+  * Virtual Reality Application (Unity)
+  * AI Application (Python)
 
 Publications
 ======
