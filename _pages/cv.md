@@ -43,7 +43,7 @@ Publications
 ======
   <ul>
   {% assign sorted_posts = site.publications | sort: 'date' | reverse %}
-    {% for post in site.publications %}
+    {% for post in sorted_posts %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
