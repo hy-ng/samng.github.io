@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a first-year M.S.(Informatics) student at Pennsylvania State University, sepcializing in Human-Computer Interaction (HCI) with keen focus on Extended Reality (XR) and  AI-assisted technology applications. Under the guidance of Prof. Ting-hao (Kenneth) Huang at CrowdAI Lab. 
+I am currently a first-year M.S.(Informatics) student at Pennsylvania State University, sepcializing in Human-Computer Interaction (HCI) with keen focus on Extended Reality (XR) and  AI-assisted technology applications. Under the guidance of [Prof. Ting-hao (Kenneth) Huang](https://crowd.ist.psu.edu/) at CrowdAI Lab. 
 
-Prior to my current M.S. studies, I pursued my M.Des.(Interaction Design) at National Taipei University of Technology, where I had the privilege of being advised by Prof. Ping-Hsuan Han at XRLab. 
+Prior to my current M.S. studies, I pursued my M.Des.(Interaction Design) at National Taipei University of Technology, where I had the privilege of being advised by [Prof. Ping-Hsuan Han](https://pinghsuan.info/) at XRLab. 
 
 My research pursuits stem from a profound interest in understanding human behavior and a fervent aspiration to develop technologies that enhance various aspects of human life.
 
