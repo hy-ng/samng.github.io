@@ -16,7 +16,7 @@ main:
   #  url: /year-archive/
     
   - title: "CV"
-    url: https://github.com/hy-ng/hy-ng.github.io/blob/e56c8fb135143cb728d782477d488dcf6d6c6d7a/files/fullCV/CV.pdf
+    url: /files/fullCV/CV.pdf
 
   #- title: "Guide"
   #  url: /markdown/
