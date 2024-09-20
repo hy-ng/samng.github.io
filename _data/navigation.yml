@@ -18,6 +18,9 @@ main:
   - title: "CV"
     url: /publicFiles/CV.pdf
 
+  - title: "Thesis"
+    url: /publicFiles/fb240921050955.pdf
+
   #- title: "Publications"
   # url: /publications/
 
