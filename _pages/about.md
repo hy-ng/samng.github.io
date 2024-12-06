@@ -22,6 +22,7 @@ I am a second-year M.S. student in Informatics at [Pennsylvania State University
 **<u>My Vision</u>**
 
 > I envision a future where AI serves as a collaborative tool, enhancing human capabilities rather than replacing them. 
+
 Leveraging my background as a UX Designer and my current role as an HCI researcher, I am deeply interested in developing applications that harness AI to boost creativity and streamline the research process.  This approach aims to elevate the quality of knowledge work and accelerate the advancement of human civilization.
 
 **<u>Oportunities</u>**
