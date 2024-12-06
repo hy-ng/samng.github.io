@@ -10,11 +10,11 @@ redirect_from:
 
 **About Me**
 
-I am a second-year M.S. student in Informatics at [Pennsylvania State University, College of Information Sciences and Technology (IST)](https://ist.psu.edu/){:target="_blank"}. My research interests lie at the intersection of **Human-Computer Interaction (HCI)**, with a particular focus on **Extended Reality (XR)**, **Haptics**, and **Human-Centered AI**.
+I am a second-year M.S. student in Informatics at [Pennsylvania State University](https://www.psu.edu/){:target="_blank"}, [College of Information Sciences and Technology (IST)](https://ist.psu.edu/){:target="_blank"}. My research interests lie at the intersection of **Human-Computer Interaction (HCI)**, **Extended Reality (XR)**, **Haptics**, and **Human-Centered AI**.
 
 
 **My Academic Journey**
-- Currenlty I am in the final semester of dual-degree program (Expected: Dec 2024), pursuing an M.S. in Informatics at Penn State and an M.Des. in Interaction Design at [National Taipei University of Technology (Taipei Tech), Department of Interaction Design](https://ixd.ntut.edu.tw/index.php?Lang=en){:target="_blank"}.
+- Currenlty I am in the final semester of dual-degree program (Expected: Dec 2024), pursuing an M.S. in Informatics at Penn State and an M.Des. in Interaction Design at [National Taipei University of Technology (Taipei Tech)](https://www-en.ntut.edu.tw/){:target="_blank"}, [Department of Interaction Design](https://ixd.ntut.edu.tw/index.php?Lang=en){:target="_blank"}.
 - Adivsors: I have had the privilege of working with expectional advisors:
   - Current Advisor: [Prof. Ting-Hao (Kenneth) Huang](http://kennethhuang.cc/){:target="_blank"} at Crowd-AI Lab in Penn State. 
   - Previous Advisor: [Prof. Ping-Hsuan Han](https://pinghsuan.info/){:target="_blank"} at [XR Lab](https://www.youtube.com/@xrlabntut0411){:target="_blank"} in Taipei Tech.
