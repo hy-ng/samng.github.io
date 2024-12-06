@@ -7,9 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 **About Me**
 
-I am a second-year M.S. student in Informatics at [Pennsylvania State University, College of Information Sciences and Technology (IST)](https://ist.psu.edu/) . My research interests lie at the intersection of Human-Computer Interaction (HCI), with a particular focus on Extended Reality (XR), Haptics, and Human-Centered AI. I am currently working under the guidance of Prof. Ting-Hao (Kenneth) Huang, a renowned researcher in the field, at the CrowdAI Lab.
+I am a second-year M.S. student in Informatics at [Pennsylvania State University, College of Information Sciences and Technology (IST)](https://ist.psu.edu/) . My research interests lie at the intersection of **Human-Computer Interaction (HCI)**, with a particular focus on **Extended Reality (XR)**, **Haptics**, and **Human-Centered AI**. I am currently working under the guidance of Prof. Ting-Hao (Kenneth) Huang, a renowned researcher in the field, at the CrowdAI Lab.
 
 
 **My Academic Journey**
@@ -24,7 +25,7 @@ I envision a future where AI serves as a collaborative tool, enhancing human cap
 
 **Oportunities**
 
-I am actively seeking research opportunities, including internships and PhD programs. You can check [my CV here](./publicFiles/CV.pdf). If you find my profile compelling, please feel free to reach out via email. I am eager to explore potential collaborations and contribute to innovative projects.
+I am actively seeking research opportunities, including internships and PhD programs. You can check [my CV here](./publicFiles/CV.pdf){:target="_blank"}. If you find my profile compelling, please feel free to reach out via email. I am eager to explore potential collaborations and contribute to innovative projects.
 
 <!-- I am a second-year M.S. student Informatics at [Pennsylvania State University, College of Information Sciences and Technology (IST)](https://ist.psu.edu/). My core research focus is Human-Computer Interaction (HCI), where I aim to develop technologies that serve human needs and enhance human capabilities. My interests span several interconnected areas, including Extended Reality (XR) and Haptics, Human-Centered AI, and the exploration of technology's potential in various setting such as Entertainment, Health, Knowledge Work. My research goal is to create technology that serve humans, fostering a collaborative relationship where technology enhances huamn well-being.
 
