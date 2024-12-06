@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-**About Me**
+<u>**About Me**</u>
 
 I am a second-year M.S. student in Informatics at [Pennsylvania State University](https://www.psu.edu/){:target="_blank"}, [College of Information Sciences and Technology (IST)](https://ist.psu.edu/){:target="_blank"}. My research interests lie at the intersection of **Human-Computer Interaction (HCI)**, **Extended Reality (XR)**, **Haptics**, and **Human-Centered AI**.
 
 
-**My Academic Journey**
+<u>**My Academic Journey**</u>
 - Currenlty I am in the final semester of dual-degree program (Expected: Dec 2024), pursuing an M.S. in Informatics at Penn State and an M.Des. in Interaction Design at [National Taipei University of Technology (Taipei Tech)](https://www-en.ntut.edu.tw/){:target="_blank"}, [Department of Interaction Design](https://ixd.ntut.edu.tw/index.php?Lang=en){:target="_blank"}.
 - Adivsors: I have had the privilege of working with expectional advisors:
   - Current Advisor: [Prof. Ting-Hao (Kenneth) Huang](http://kennethhuang.cc/){:target="_blank"} at Crowd-AI Lab in Penn State. 
