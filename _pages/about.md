@@ -27,4 +27,4 @@ Leveraging my background as a UX Designer and my current role as an HCI research
 
 **<u>Oportunities</u>**
 
-I am actively seeking research opportunities, including internships and PhD programs. You can check [my CV here](./publicFiles/CV.pdf){:target="_blank"}. If you find my profile compelling, please feel free to reach out via email. I am eager to explore potential collaborations and contribute to innovative projects.
+I am actively seeking research opportunities, including internships and PhD programs. You can check [my CV here](./publicFiles/Sam Ng_CV.pdf){:target="_blank"}. If you find my profile compelling, please feel free to reach out via email. I am eager to explore potential collaborations and contribute to innovative projects.
