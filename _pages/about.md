@@ -10,14 +10,18 @@ redirect_from:
 
 **<u>About Me</u>**
 
-I am a second-year M.S. student in Informatics at [Pennsylvania State University](https://www.psu.edu/){:target="_blank"}, [College of Information Sciences and Technology (IST)](https://ist.psu.edu/){:target="_blank"}. My research interests lie at the intersection of **Human-Computer Interaction (HCI)**, **Extended Reality (XR)**, **Haptics**, and **Human-Centered AI**.
+Hi! I am a recent M.S. gradate in Informatics from [Pennsylvania State University's College of Information Sciences and Technology (IST)](https://ist.psu.edu/){:target="_blank"}. I am currently working with [Dr. Ting-Hao (Kenneth) Huang](http://kennethhuang.cc/){:target="_blank"} at Crowd-AI Lab in Penn State with projects focus on AI caption writing tool for scientific figures in academic publications.
+
+ My research lies at the intersection of **Human-Computer Interaction (HCI)** and emerging technologies, with particular emphasis on **Technical HCI**. My work spans several key areas, including **Extended Reality (XR)**, **Haptics**, **Human-Centered AI**, **Visualization**, and **Natural Language Processing (NLP)**.
+
+ Leveraging my multi-disciplinary background, I love to build tech that makes life better and easier for people, while exploring new ideas to push the boundaries of what's possible.
 
 
 **<u>My Academic Journey</u>**
-- Currenlty I am in the final semester of dual-degree program (Expected: Dec 2024), pursuing an M.S. in Informatics at Penn State. I completed my first master's degree (M.Des. in Interaction Design) at [National Taipei University of Technology (Taipei Tech)](https://www-en.ntut.edu.tw/){:target="_blank"}, [Department of Interaction Design](https://ixd.ntut.edu.tw/index.php?Lang=en){:target="_blank"}. 
-- Adivsors: I have had the privilege of working with expectional advisors:
-  - Current Advisor: [Prof. Ting-Hao (Kenneth) Huang](http://kennethhuang.cc/){:target="_blank"} at Crowd-AI Lab in Penn State. 
-  - Previous Advisor: [Prof. Ping-Hsuan Han](https://pinghsuan.info/){:target="_blank"} at [XR Lab](https://www.youtube.com/@xrlabntut0411){:target="_blank"} in Taipei Tech.
+
+ - I completed my M.S. in Informatics in the Pennsylvania State University's College of IST, under the guidance of [Dr. Ting-Hao (Kenneth) Huang](http://kennethhuang.cc/) in December, 2024.
+ - I completed my M.Des. in Interaction Design at [National Taipei University of Technology (Taipei Tech)'s Department of Interaction Design](https://ixd.ntut.edu.tw/index.php?Lang=en){:target="_blank"}, under the guidance of [Dr. Ping-Hsuan Han](https://pinghsuan.info/){:target="_blank"} at [XR Lab](https://www.youtube.com/@xrlabntut0411){:target="_blank"} in July, 2023.
+
 
 **<u>My Vision</u>**
 
@@ -27,4 +31,4 @@ Leveraging my background as a UX Designer and my current role as an HCI research
 
 **<u>Oportunities</u>**
 
-I am actively seeking research opportunities, including internships and PhD programs. You can check [my CV here](./publicFiles/Sam Ng_CV.pdf){:target="_blank"}. If you find my profile compelling, please feel free to reach out via email. I am eager to explore potential collaborations and contribute to innovative projects.
+I am actively seeking research opportunities, including internships and PhD programs. You can check [my CV here](./publicFiles/Sam Ng_CV.pdf){:target="_blank"}. If you are interested in my profile, please feel free to reach out via email. I am eager to explore potential collaborations and contribute to innovative projects.
